@@ -1,0 +1,1 @@
+This repo contains files for data analysis project on the website Naukri.com. It contains all the scrapped data and insights from the data filtered. We put the data in machine learning algorithm to generate some predictions as well.
